@@ -4,7 +4,9 @@
     "github": "unknownrichy-source"
   },
   "claimedAt": "2026-10-21T15:25:49.862Z",
-  "records": {},
+  "records": {
+    "CNAME": "d4b556371ce202ef.vercel-dns-017.com"
+  },
   "country": "PK",
   "subdomains": {
     "_vercel": {
