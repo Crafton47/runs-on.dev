@@ -36,9 +36,6 @@
     },
     "headscale": {
       "CNAME": "neuron-network.runs-on.dev"
-    },
-    "ev": {
-      "CNAME": "neuron-network.runs-on.dev"
     }
   }
 }
