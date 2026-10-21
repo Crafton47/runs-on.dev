@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "3d93f39e6eb43ef2.vercel-dns-017.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=akhilesh-portfolio.runs-on.dev,1a3e697c4837acd204f4"
+      ]
+    }
+  }
 }
