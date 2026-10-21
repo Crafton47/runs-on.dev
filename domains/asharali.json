@@ -4,6 +4,8 @@
     "github": "ProjectsByAshar"
   },
   "claimedAt": "2026-10-20T12:06:02.939Z",
-  "records": {},
+  "records": {
+    "CNAME": "projectsbyashar.github.io"
+  },
   "country": "PK"
 }
