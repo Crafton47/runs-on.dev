@@ -4,6 +4,8 @@
     "github": "AkkhileshCod3s"
   },
   "claimedAt": "2026-10-15T09:05:16.230Z",
-  "records": {},
+  "records": {
+    "CNAME": "3d93f39e6eb43ef2.vercel-dns-017.com"
+  },
   "country": "IN"
 }
