@@ -9,9 +9,9 @@
   },
   "country": "IN",
   "subdomains": {
-    "_vercel": {
+    "subdomain-owner-verification": {
       "TXT": [
-        "vc-domain-verify=monotranscoder.runs-on.dev,2998c4d80867397ad6bf"
+        "3a51b1a603f441022b2c1c979d702b50"
       ]
     }
   }
