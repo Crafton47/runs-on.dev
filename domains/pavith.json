@@ -5,5 +5,12 @@
   },
   "claimedAt": "2026-10-21T18:07:20.866Z",
   "records": {},
-  "country": "DE"
+  "country": "DE",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=pavith.runs-on.dev,c14e7396677b6857beb7"
+      ]
+    }
+  }
 }
