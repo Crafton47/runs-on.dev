@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "7f04a9585bfcd6ed.vercel-dns-017.com"
   },
-  "country": "IT",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=blubox.runs-on.dev,c08f71078dc367746725"
-      ]
-    }
-  }
+  "country": "IT"
 }

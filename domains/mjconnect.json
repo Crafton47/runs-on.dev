@@ -9,11 +9,6 @@
   },
   "country": "IN",
   "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=mjconnect.runs-on.dev,eb56504ad8b3dc37ef29"
-      ]
-    },
     "jdvcbwvazdi7": {
       "CNAME": "gv-ekx2figpkkefcq.dv.googlehosted.com"
     }

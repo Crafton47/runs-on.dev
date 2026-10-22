@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "d839a4d20e035275.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=ronipaul.runs-on.dev,d922b34c6d8faebc8bff"
-      ]
-    }
-  }
+  "country": "IN"
 }

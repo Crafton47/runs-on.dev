@@ -12,12 +12,5 @@
       "vc-domain-verify=yaznhijazi.runs-on.dev,9dcde4a981ce48c171ec"
     ]
   },
-  "country": "JO",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=yaznhijazi.runs-on.dev,9dcde4a981ce48c171ec"
-      ]
-    }
-  }
+  "country": "JO"
 }

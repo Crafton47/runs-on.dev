@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "75f0536fdba9a8a3.vercel-dns-017.com"
   },
-  "country": "DE",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=pavith.runs-on.dev,c14e7396677b6857beb7"
-      ]
-    }
-  }
+  "country": "DE"
 }

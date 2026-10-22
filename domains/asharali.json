@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "dac70e488e21d78d.vercel-dns-017.com"
   },
-  "country": "PK",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=asharali.runs-on.dev,2ddd585f58453e1f45f8"
-      ]
-    }
-  }
+  "country": "PK"
 }
