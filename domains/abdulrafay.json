@@ -5,7 +5,9 @@
   },
   "claimedAt": "2026-10-22T05:49:43.025Z",
   "records": {
-    "CNAME": "e600d69d795ab83e.vercel-dns-017.com"
+    "TXT": [
+      "vc-domain-verify=abdulrafay.runs-on.dev,d48d63ca505f04deb2cb"
+    ]
   },
   "country": "PK"
 }
