@@ -4,6 +4,8 @@
     "github": "panos140"
   },
   "claimedAt": "2026-10-22T17:17:01.440Z",
-  "records": {},
+  "records": {
+    "CNAME": "reliable-bavarois-84fc0e.netlify.app"
+  },
   "country": "GR"
 }
