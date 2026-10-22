@@ -4,6 +4,8 @@
     "github": "ronipaul1"
   },
   "claimedAt": "2026-10-22T11:20:22.113Z",
-  "records": {},
+  "records": {
+    "CNAME": "d839a4d20e035275.vercel-dns-017.com"
+  },
   "country": "IN"
 }
