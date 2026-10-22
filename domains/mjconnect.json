@@ -4,7 +4,9 @@
     "github": "Maniraj47"
   },
   "claimedAt": "2026-10-22T07:28:09.785Z",
-  "records": {},
+  "records": {
+    "CNAME": "ef07419710e5f54f.vercel-dns-017.com"
+  },
   "country": "IN",
   "subdomains": {
     "_vercel": {
