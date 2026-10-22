@@ -4,6 +4,8 @@
     "github": "oki3505F"
   },
   "claimedAt": "2026-10-22T10:14:01.332Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "IN"
 }
