@@ -4,6 +4,10 @@
     "github": "Everyday-colba"
   },
   "claimedAt": "2026-10-22T14:47:43.503Z",
-  "records": {},
+  "records": {
+    "A": [
+      "151.80.36.121"
+    ]
+  },
   "country": "RU"
 }
