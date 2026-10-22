@@ -9,10 +9,8 @@
   },
   "country": "IN",
   "subdomains": {
-    "subdomain-owner-verification": {
-      "TXT": [
-        "3a51b1a603f441022b2c1c979d702b50"
-      ]
+    "kx4bxd53jy42": {
+      "CNAME": "gv-4idzlft6r7fb7d.dv.googlehosted.com"
     }
   }
 }
