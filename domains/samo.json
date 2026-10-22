@@ -7,5 +7,17 @@
   "records": {
     "CNAME": "custom-domains.chatgpt.site"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_openai-site-verification": {
+      "TXT": [
+        "openai-site-verification=h3S4diuszt_oU59r_VYdUlSibLxN-wttQN1R7GRhcOw"
+      ]
+    },
+    "_cf-custom-hostname": {
+      "TXT": [
+        "8851736f-2196-449a-916c-23b0099fc611"
+      ]
+    }
+  }
 }
