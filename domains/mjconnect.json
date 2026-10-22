@@ -5,5 +5,12 @@
   },
   "claimedAt": "2026-10-22T07:28:09.785Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=mjconnect.runs-on.dev,eb56504ad8b3dc37ef29"
+      ]
+    }
+  }
 }
