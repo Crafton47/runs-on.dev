@@ -4,6 +4,8 @@
     "github": "SkEESUB"
   },
   "claimedAt": "2026-10-22T07:22:24.817Z",
-  "records": {},
+  "records": {
+    "CNAME": "eesublabs.com"
+  },
   "country": "IN"
 }
