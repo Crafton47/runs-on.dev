@@ -4,6 +4,8 @@
     "github": "kashyapHebbar"
   },
   "claimedAt": "2026-10-22T11:22:07.121Z",
-  "records": {},
+  "records": {
+    "CNAME": "model-compass-ai.onrender.com"
+  },
   "country": "IN"
 }
