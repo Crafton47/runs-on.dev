@@ -15,12 +15,5 @@
         "url": "https://icaspian.edgeone.dev"
       }
     ]
-  },
-  "subdomains": {
-    "_discord": {
-      "TXT": [
-        "dh=4c2948789a9ba4c9770e595e5ba488665a3b690b"
-      ]
-    }
   }
 }
