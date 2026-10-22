@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "icaspian.edgeone.dev"
   },
-  "country": "IN",
-  "subdomains": {
-    "_discord": {
-      "TXT": [
-        "dh=efc5b65784a59abbdefcb60ff8ed34993e3924f6"
-      ]
-    }
-  }
+  "country": "IN"
 }
