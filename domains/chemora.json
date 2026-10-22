@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "5fdf9518dfd727be.vercel-dns-017.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "chemora": {
+      "TXT": [
+        "google-site-verification=EV_hAbg0kXVMl8h4jdZaz9uVp9jqqVT1pD_Fl_lP80I"
+      ]
+    }
+  }
 }
