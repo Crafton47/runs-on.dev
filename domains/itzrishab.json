@@ -7,5 +7,10 @@
   "records": {
     "CNAME": "itzrishab.netlify.app"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "itzrishav": {
+      "CNAME": "itzrishab.netlify.app"
+    }
+  }
 }
