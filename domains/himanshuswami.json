@@ -7,10 +7,5 @@
   "records": {
     "CNAME": "himanshuswami-developer.github.io"
   },
-  "country": "IN",
-  "subdomains": {
-    "himanshuswami": {
-      "CNAME": "himanshuswami-developer.github.io"
-    }
-  }
+  "country": "IN"
 }
