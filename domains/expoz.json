@@ -5,7 +5,14 @@
   },
   "claimedAt": "2026-10-22T02:49:18.588Z",
   "records": {
-    "URL": "https://expoz.vercel.app"
+    "CNAME": "5fece6ffd51dad35.vercel-dns-017.com"
   },
-  "country": "NP"
+  "country": "NP",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=expoz.runs-on.dev,9b7d0233465dc4cfeeeb"
+      ]
+    }
+  }
 }
