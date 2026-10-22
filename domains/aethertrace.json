@@ -5,5 +5,17 @@
   },
   "claimedAt": "2026-10-22T23:15:25.097Z",
   "records": {},
-  "country": "MA"
+  "country": "MA",
+  "subdomains": {
+    "aethertrace": {
+      "A": [
+        "185.158.133.1"
+      ]
+    },
+    "_lovable.aethertrace": {
+      "TXT": [
+        "lovable_verify=74fa8ec7791d81ba5c09d21cac1ac298f923c7188a7844b9b78024f70dae104a"
+      ]
+    }
+  }
 }
