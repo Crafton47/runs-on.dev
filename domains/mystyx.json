@@ -4,6 +4,8 @@
     "github": "MYSTYX7"
   },
   "claimedAt": "2026-10-22T18:22:17.725Z",
-  "records": {},
+  "records": {
+    "CNAME": "abhisc.vercel.com"
+  },
   "country": "IN"
 }
