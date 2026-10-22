@@ -4,6 +4,8 @@
     "github": "rahul25012003"
   },
   "claimedAt": "2026-10-22T10:52:32.560Z",
-  "records": {},
+  "records": {
+    "CNAME": "f789f184964cc053.vercel-dns-017.com"
+  },
   "country": "IN"
 }
