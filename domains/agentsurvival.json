@@ -4,6 +4,8 @@
     "github": "satwik-bankapur"
   },
   "claimedAt": "2026-10-22T15:20:24.050Z",
-  "records": {},
+  "records": {
+    "CNAME": "satwik-bankapur.github.io"
+  },
   "country": "IN"
 }
