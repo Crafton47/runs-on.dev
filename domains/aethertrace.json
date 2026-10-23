@@ -4,6 +4,10 @@
     "github": "ZLouada"
   },
   "claimedAt": "2026-10-22T23:15:25.097Z",
-  "records": {},
+  "records": {
+    "A": [
+      "185.158.133.1"
+    ]
+  },
   "country": "MA"
 }
