@@ -4,6 +4,8 @@
     "github": "MannAhalpara"
   },
   "claimedAt": "2026-10-23T07:10:56.686Z",
-  "records": {},
+  "records": {
+    "CNAME": "855afcc87aa5a817.vercel-dns-017.com"
+  },
   "country": "IN"
 }
