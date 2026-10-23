@@ -6,10 +6,10 @@
   "claimedAt": "2026-10-22T23:15:25.097Z",
   "records": {
     "A": [
-      "185.158.133.1"
+      "76.76.21.21"
     ],
     "TXT": [
-      "lovable_verify=74fa8ec7791d81ba5c09d21cac1ac298f923c7188a7844b9b78024f70dae104a"
+      "_vercel"
     ]
   },
   "country": "MA",
