@@ -4,6 +4,8 @@
     "github": "Gracy769"
   },
   "claimedAt": "2026-10-23T02:12:37.922Z",
-  "records": {},
+  "records": {
+    "CNAME": "scout-hackathon.graceperez769.workers.dev"
+  },
   "country": "IN"
 }
