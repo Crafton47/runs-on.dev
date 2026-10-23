@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "8ec351e89f68ff63.vercel-dns-017.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=noordveld.runs-on.dev,f1ac4f7772104d4b6447"
+      ]
+    }
+  }
 }
