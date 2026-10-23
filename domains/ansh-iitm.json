@@ -4,6 +4,8 @@
     "github": "anshkumar-iitm"
   },
   "claimedAt": "2026-10-23T19:56:03.757Z",
-  "records": {},
+  "records": {
+    "CNAME": "anshkumar-iitm.github.io"
+  },
   "country": "IN"
 }
