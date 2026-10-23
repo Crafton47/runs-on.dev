@@ -12,5 +12,12 @@
       "_vercel"
     ]
   },
-  "country": "MA"
+  "country": "MA",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=aethertrace.runs-on.dev,b6946665ac94c357a0c6"
+      ]
+    }
+  }
 }
