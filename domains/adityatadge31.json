@@ -5,5 +5,10 @@
   },
   "claimedAt": "2026-10-23T18:26:53.130Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "orbit": {
+      "CNAME": "orbit-wtl-demo.onrender.com"
+    }
+  }
 }
