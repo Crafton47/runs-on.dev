@@ -5,5 +5,12 @@
   },
   "claimedAt": "2026-10-23T06:31:47.283Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=anifox.runs-on.dev,c6dff682ce630df6d486"
+      ]
+    }
+  }
 }
