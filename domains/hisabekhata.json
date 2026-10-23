@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "e87a507951c04760.vercel-dns-017.com"
   },
-  "country": "BD",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=hisabekhata.runs-on.dev,02a230384da4a68dcd63"
-      ]
-    }
-  }
+  "country": "BD"
 }

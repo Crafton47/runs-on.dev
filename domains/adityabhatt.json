@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "3ec6930b269923ea.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=adityabhatt.runs-on.dev,08dfbb14f6ba76a5f8d4"
-      ]
-    }
-  }
+  "country": "IN"
 }

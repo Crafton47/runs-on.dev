@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "8d4ad9baa32197a2.vercel-dns-017.com"
   },
-  "country": "NP",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=surajagrahari.runs-on.dev,6fcd523e49575c95e598"
-      ]
-    }
-  }
+  "country": "NP"
 }

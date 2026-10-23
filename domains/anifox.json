@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "cf97d7a67478f61e.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=anifox.runs-on.dev,c6dff682ce630df6d486"
-      ]
-    }
-  }
+  "country": "IN"
 }

@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "855afcc87aa5a817.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=starlette-intelligence.runs-on.dev,6e7f12b7cd818bb8adec"
-      ]
-    }
-  }
+  "country": "IN"
 }
