@@ -4,6 +4,8 @@
     "github": "suraz404"
   },
   "claimedAt": "2026-10-23T02:00:48.682Z",
-  "records": {},
+  "records": {
+    "CNAME": "8d4ad9baa32197a2.vercel-dns-017.com"
+  },
   "country": "NP"
 }
