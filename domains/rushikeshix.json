@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "baca48d742246d01.vercel-dns-017.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=rushikeshix.runs-on.dev,9df1ccbc6ba33cc02fe5"
+      ]
+    }
+  }
 }
