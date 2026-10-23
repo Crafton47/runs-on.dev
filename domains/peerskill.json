@@ -5,7 +5,15 @@
   },
   "claimedAt": "2026-10-23T11:55:18.676Z",
   "records": {
-    "URL": "Https://peerskill.lovable.app"
+    "A": [
+      "185.158.133.1"
+    ],
+    "TXT": [
+      "_lovable",
+      "lovable_verify=959192bc328c758fb687b73ba31f53bb04a8b49790196efef999442590f9920d",
+      "_lovable.www",
+      "lovable_verify=97fd681d486c40e23c6300186ef8dfbcac45cc634eb101e151246b80f228d890"
+    ]
   },
   "country": "IN"
 }
