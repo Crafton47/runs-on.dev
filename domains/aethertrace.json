@@ -14,9 +14,6 @@
   },
   "country": "MA",
   "subdomains": {
-    "aethertrace": {
-      "CNAME": "ac36556a37973af1.vercel-dns-017.com"
-    },
     "_vercel": {
       "TXT": [
         "vc-domain-verify=aethertrace.runs-on.dev,b6946665ac94c357a0c6"
