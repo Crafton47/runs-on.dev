@@ -4,6 +4,8 @@
     "github": "IAMDNMR"
   },
   "claimedAt": "2026-10-23T09:54:35.107Z",
-  "records": {},
+  "records": {
+    "CNAME": "8ec351e89f68ff63.vercel-dns-017.com"
+  },
   "country": "IN"
 }
