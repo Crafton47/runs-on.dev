@@ -4,6 +4,8 @@
     "github": "thu12dta3"
   },
   "claimedAt": "2026-10-23T21:43:15.555Z",
-  "records": {},
+  "records": {
+    "CNAME": "miceworks.pages.dev"
+  },
   "country": "BR"
 }
