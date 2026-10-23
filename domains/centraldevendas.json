@@ -4,6 +4,8 @@
     "github": "criandoparabanirnumero-cmyk"
   },
   "claimedAt": "2026-10-23T13:00:48.045Z",
-  "records": {},
+  "records": {
+    "CNAME": "host.ereemby.com"
+  },
   "country": "BR"
 }
