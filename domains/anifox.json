@@ -4,7 +4,9 @@
     "github": "iwannabeyourshere"
   },
   "claimedAt": "2026-10-23T06:31:47.283Z",
-  "records": {},
+  "records": {
+    "CNAME": "cf97d7a67478f61e.vercel-dns-017.com"
+  },
   "country": "IN",
   "subdomains": {
     "_vercel": {
