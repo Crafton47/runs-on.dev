@@ -4,7 +4,9 @@
     "github": "PalDPathak404"
   },
   "claimedAt": "2026-10-24T04:29:12.674Z",
-  "records": {},
+  "records": {
+    "CNAME": "9a189c4ac6567c87.vercel-dns-017.com"
+  },
   "country": "IN",
   "subdomains": {
     "_vercel": {
