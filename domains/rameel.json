@@ -4,6 +4,8 @@
     "github": "hir0-pixel"
   },
   "claimedAt": "2026-10-24T12:53:18.090Z",
-  "records": {},
+  "records": {
+    "CNAME": "92bbb070ea061541.vercel-dns-017.com"
+  },
   "country": "PK"
 }
