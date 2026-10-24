@@ -5,5 +5,35 @@
   },
   "claimedAt": "2026-10-24T10:17:53.283Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "profile": {
+    "name": "Vibe With Aaruu",
+    "bio": "Aarushi and Harshit. Real couple life, travel, festivals, and everyday stories from India. 67K+ on YouTube.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@vibewithaaruu"
+      },
+      {
+        "label": "Latest short",
+        "url": "https://www.youtube.com/shorts/uwVQSVI1Ehk"
+      },
+      {
+        "label": "Dream car",
+        "url": "https://www.youtube.com/shorts/ONj_z8r7_Os"
+      },
+      {
+        "label": "Hollyland mic",
+        "url": "https://www.youtube.com/shorts/uc8Rbaua3fU"
+      },
+      {
+        "label": "Couple comedy",
+        "url": "https://www.youtube.com/shorts/vdL2jA5HVjI"
+      },
+      {
+        "label": "Holkar Stadium",
+        "url": "https://www.youtube.com/watch?v=f0KftHTgdsQ"
+      }
+    ]
+  }
 }
