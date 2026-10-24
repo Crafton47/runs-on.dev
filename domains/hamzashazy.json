@@ -4,6 +4,8 @@
     "github": "hamzashazy"
   },
   "claimedAt": "2026-10-24T18:46:03.016Z",
-  "records": {},
+  "records": {
+    "CNAME": "488e9d9b45b963b7.vercel-dns-017.com"
+  },
   "country": "PK"
 }
