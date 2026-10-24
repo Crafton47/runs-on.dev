@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "b8dc6b75cea16fca.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=ecommerce.runs-on.dev,9d5619660ce5c692ab5c"
-      ]
-    }
-  }
+  "country": "IN"
 }

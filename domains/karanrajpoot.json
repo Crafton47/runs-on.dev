@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "566f1202e0b95361.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=karanrajpoot.runs-on.dev,c813917748d2ddbd5f57"
-      ]
-    }
-  }
+  "country": "IN"
 }

@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "2b6ac65862cd2033.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=aryanshgupta.runs-on.dev,c65d4c1578e02dbd91df"
-      ]
-    }
-  }
+  "country": "IN"
 }

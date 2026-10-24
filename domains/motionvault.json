@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "253f73d8b0c7e788.vercel-dns-017.com"
   },
-  "country": "PK",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=motionvault.runs-on.dev,831b8628e895f8a9e04e"
-      ]
-    }
-  }
+  "country": "PK"
 }
