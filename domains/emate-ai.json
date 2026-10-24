@@ -9,9 +9,9 @@
   },
   "country": "IN",
   "subdomains": {
-    "_vercel.emate-ai": {
+    "_vercel": {
       "TXT": [
-        "vc-domain-verify=emate-ai.runs-on.dev,58de8fd9161b1406f46c"
+        "vc-domain-verify=emate-ai.runs-on.dev,cd45d82d2b94dda50268"
       ]
     },
     "emate-ai": {
