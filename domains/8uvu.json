@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "site-e17c1ba62f634ffa9b5de75ba560b36e.freebuff.page"
   },
-  "country": "AT"
+  "country": "AT",
+  "subdomains": {
+    "_freebuff": {
+      "TXT": [
+        "freebuff-verify=c738eb74968e7f50922516c2ec6c4ab0d81fcd80caa1d11d"
+      ]
+    }
+  }
 }
