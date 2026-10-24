@@ -11,6 +11,9 @@
   "subdomains": {
     "payment": {
       "CNAME": "0x1saad.github.io"
+    },
+    "tapes": {
+      "CNAME": "0x1saad.github.io"
     }
   },
   "profile": {
