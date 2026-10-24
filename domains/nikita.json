@@ -4,7 +4,9 @@
     "github": "nikitabangia"
   },
   "claimedAt": "2026-10-24T17:35:42.859Z",
-  "records": {},
+  "records": {
+    "CNAME": "025b89a6e47cc26c.vercel-dns-017.com"
+  },
   "country": "IN",
   "subdomains": {
     "_vercel": {
