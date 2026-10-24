@@ -5,7 +5,7 @@
   },
   "claimedAt": "2026-10-02T17:37:25.387Z",
   "records": {
-    "CNAME": "c738eb74968e7f50922516c2ec6c4ab0d81fcd80caa1d11d.customers.freebuff.page"
+    "CNAME": "cname.vercel-dns.com"
   },
   "country": "AT",
   "subdomains": {
