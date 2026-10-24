@@ -5,5 +5,12 @@
   },
   "claimedAt": "2026-10-24T17:35:42.859Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=nikita.runs-on.dev,2cddd6f829f7890f2477"
+      ]
+    }
+  }
 }
