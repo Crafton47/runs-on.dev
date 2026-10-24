@@ -12,12 +12,5 @@
   "country": "IN",
   "profile": {
     "name": "dharmik-03"
-  },
-  "subdomains": {
-    "subdomain-owner-verification": {
-      "TXT": [
-        "69aea4f7124cdb428dcdc0596e6670c7"
-      ]
-    }
   }
 }
