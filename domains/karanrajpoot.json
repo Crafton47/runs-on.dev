@@ -4,6 +4,8 @@
     "github": "kodrkaran"
   },
   "claimedAt": "2026-10-24T07:23:35.245Z",
-  "records": {},
+  "records": {
+    "CNAME": "566f1202e0b95361.vercel-dns-017.com"
+  },
   "country": "IN"
 }
