@@ -6,5 +6,17 @@
   "claimedAt": "2026-09-02T18:14:56.653Z",
   "records": {
     "URL": "https://substack.com/@kaizen6544"
+  },
+  "subdomains": {
+    "_openai-site-verification": {
+      "TXT": [
+        "openai-site-verification=8x5GMtLZP7KQQEqVtA514zCARMdVmnFnBT3u8rOvxDw"
+      ]
+    },
+    "_cf-custom-hostname": {
+      "TXT": [
+        "8c1696de-fe2e-403e-a605-c13240958ad0"
+      ]
+    }
   }
 }
