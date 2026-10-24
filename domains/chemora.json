@@ -9,9 +9,9 @@
   },
   "country": "IN",
   "subdomains": {
-    "chemora": {
+    "_vercel": {
       "TXT": [
-        "google-site-verification=EV_hAbg0kXVMl8h4jdZaz9uVp9jqqVT1pD_Fl_lP80I"
+        "google-site-verification=qRVnJLx8RG_UmQg2iSXcCKSD5FZ1riD-arT3kvb9XPw"
       ]
     }
   }
