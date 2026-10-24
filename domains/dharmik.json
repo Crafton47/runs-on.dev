@@ -4,7 +4,11 @@
     "github": "dharmik-03"
   },
   "claimedAt": "2026-10-24T13:25:00.707Z",
-  "records": {},
+  "records": {
+    "TXT": [
+      "subdomain-owner-verification=69aea4f7124cdb428dcdc0596e6670c7"
+    ]
+  },
   "country": "IN",
   "profile": {
     "name": "dharmik-03"
