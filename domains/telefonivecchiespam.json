@@ -4,6 +4,8 @@
     "github": "telefonivecchiespam"
   },
   "claimedAt": "2026-10-23T13:06:32.537Z",
-  "records": {},
+  "records": {
+    "CNAME": "telefonivecchiespam.github.io"
+  },
   "country": "IT"
 }
