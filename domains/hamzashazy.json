@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "488e9d9b45b963b7.vercel-dns-017.com"
   },
-  "country": "PK",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=hamzashazy.runs-on.dev,89d83c5c52ee958e13a9"
-      ]
-    }
-  }
+  "country": "PK"
 }

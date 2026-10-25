@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "025b89a6e47cc26c.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=nikita.runs-on.dev,2cddd6f829f7890f2477"
-      ]
-    }
-  }
+  "country": "IN"
 }

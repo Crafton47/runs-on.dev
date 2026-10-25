@@ -9,11 +9,6 @@
   },
   "country": "IN",
   "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=emate-ai.runs-on.dev,cd45d82d2b94dda50268"
-      ]
-    },
     "emate-ai": {
       "CNAME": "1b4d8a15fbcc14da.vercel-dns-017.com"
     }
