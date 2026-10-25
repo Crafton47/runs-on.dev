@@ -11,7 +11,7 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        ".runs-on.dev"
+        "vc-domain-verify=abdulrehman-codes.runs-on.dev,b18e792fae501fb0e5a2"
       ]
     }
   }
