@@ -4,6 +4,10 @@
     "github": "MUKARRAM-ONE"
   },
   "claimedAt": "2026-09-17T13:55:37.997Z",
-  "records": {},
+  "records": {
+    "A": [
+      "20.219.7.247"
+    ]
+  },
   "country": "PK"
 }
