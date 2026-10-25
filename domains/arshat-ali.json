@@ -4,6 +4,8 @@
     "github": "arshat-81"
   },
   "claimedAt": "2026-10-25T17:37:41.568Z",
-  "records": {},
+  "records": {
+    "CNAME": "arshat-81.github.io"
+  },
   "country": "IN"
 }
