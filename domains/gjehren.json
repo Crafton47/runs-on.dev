@@ -4,6 +4,8 @@
     "github": "gjehren"
   },
   "claimedAt": "2026-10-26T02:02:37.498Z",
-  "records": {},
+  "records": {
+    "CNAME": "tunnelto.me"
+  },
   "country": "US"
 }
