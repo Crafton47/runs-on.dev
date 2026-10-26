@@ -4,6 +4,8 @@
     "github": "sytex-comp"
   },
   "claimedAt": "2026-10-26T22:49:26.671Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "IT"
 }
