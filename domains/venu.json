@@ -10,7 +10,7 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "vc-domain-verify=venu.runs-on.dev,31915794889aec6a108c"
+        "vc-domain-verify=venu.runs-on.dev,31915794889aec6a108"
       ]
     }
   }
