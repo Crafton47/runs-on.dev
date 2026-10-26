@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "3c428f9925ec2788.vercel-dns-017.com"
   },
-  "country": "PK"
+  "country": "PK",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=muhdumar.runs-on.dev,9a1be0381780b3d577e4"
+      ]
+    }
+  }
 }
