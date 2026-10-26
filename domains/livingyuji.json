@@ -4,6 +4,8 @@
     "github": "livingyuji"
   },
   "claimedAt": "2026-10-26T14:02:37.032Z",
-  "records": {},
+  "records": {
+    "CNAME": "da8a6b03480ead08.vercel-dns-017.com"
+  },
   "country": "IN"
 }
