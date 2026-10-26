@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "891e298354286a9b.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=bhavana-codes.runs-on.dev,f217a41789ef019fd455"
-      ]
-    }
-  }
+  "country": "IN"
 }
