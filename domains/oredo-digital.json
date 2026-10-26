@@ -11,7 +11,7 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "vc-domain-verify=runs-on.dev,d02e27a54c39d0b8ebc6"
+        "vc-domain-verify=oredo-digital.runs-on.dev,fe1f4921ee51346a403a"
       ]
     }
   }
