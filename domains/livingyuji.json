@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "da8a6b03480ead08.vercel-dns-017.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=livingyuji.runs-on.dev,876c65377afb178ed27c"
+      ]
+    }
+  }
 }
