@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "b206bfb33a186eca.vercel-dns-017.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=ramakrishna.runs-on.dev,d2c896533f63cc40e6a0"
+      ]
+    }
+  }
 }
