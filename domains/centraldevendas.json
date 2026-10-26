@@ -7,15 +7,5 @@
   "records": {
     "CNAME": "domain.sharpifydomain.store"
   },
-  "country": "BR",
-  "subdomains": {
-    "_ereemby-verify-7c45": {
-      "TXT": [
-        "d35307a7-b986-4362-84dd-8a35bea840c4"
-      ]
-    },
-    "_acme-challenge": {
-      "CNAME": "centraldevendas.runs-on.dev.954de33a2f42a020.dcv.cloudflare.com"
-    }
-  }
+  "country": "BR"
 }
