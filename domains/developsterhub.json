@@ -4,7 +4,9 @@
     "github": "Henil-shah-25"
   },
   "claimedAt": "2026-10-26T08:03:09.585Z",
-  "records": {},
+  "records": {
+    "CNAME": "developster-hub.onrender.com"
+  },
   "country": "IN",
   "profile": {
     "name": "Henil-shah-25"
