@@ -4,6 +4,8 @@
     "github": "aman-rohera"
   },
   "claimedAt": "2026-10-26T14:49:14.941Z",
-  "records": {},
+  "records": {
+    "CNAME": "3a19f515ec95df77.vercel-dns-017.com"
+  },
   "country": "IN"
 }
