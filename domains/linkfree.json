@@ -4,6 +4,8 @@
     "github": "rishiprattap"
   },
   "claimedAt": "2026-10-26T20:00:14.519Z",
-  "records": {},
+  "records": {
+    "CNAME": "837385e0b7e0fc0a.vercel-dns-017.com"
+  },
   "country": "IN"
 }
