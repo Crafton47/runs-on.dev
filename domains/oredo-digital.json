@@ -4,7 +4,9 @@
     "github": "furqantahirm-boop"
   },
   "claimedAt": "2026-10-26T14:12:25.788Z",
-  "records": {},
+  "records": {
+    "CNAME": "furqantahirm-boop.github.io"
+  },
   "country": "PK",
   "subdomains": {
     "_vercel": {
