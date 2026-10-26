@@ -5,7 +5,9 @@
   },
   "claimedAt": "2026-10-26T02:02:37.498Z",
   "records": {
-    "CNAME": "tunnelto.me"
+    "TXT": [
+      "gjehren.runs-on.dev CNAME 8dd69d084273e9a.eu.ports.live"
+    ]
   },
   "country": "US"
 }
