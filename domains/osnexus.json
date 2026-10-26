@@ -4,6 +4,8 @@
     "github": "Savinay99"
   },
   "claimedAt": "2026-10-26T14:13:03.641Z",
-  "records": {},
+  "records": {
+    "CNAME": "savinay99.github.io"
+  },
   "country": "IN"
 }
