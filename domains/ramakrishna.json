@@ -4,6 +4,8 @@
     "github": "Ramakrishna1967"
   },
   "claimedAt": "2026-10-26T13:23:24.195Z",
-  "records": {},
+  "records": {
+    "CNAME": "b206bfb33a186eca.vercel-dns-017.com"
+  },
   "country": "IN"
 }
