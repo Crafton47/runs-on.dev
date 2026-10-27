@@ -5,7 +5,9 @@
   },
   "claimedAt": "2026-10-27T05:51:57.492Z",
   "records": {
-    "CNAME": "549d34d397ed3a7c.vercel-dns-017.com"
+    "TXT": [
+      "vc-domain-verify=sunny.runs-on.dev,7f6d9abdbf01ac370ed8"
+    ]
   },
   "country": "IN"
 }
