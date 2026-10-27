@@ -16,6 +16,11 @@
       "TXT": [
         "vc-domain-verify=zero-to-ship.syncing-spark.runs-on.dev,89c1a7b79b55f814e0a1"
       ]
+    },
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=syncing-spark.runs-on.dev,3b0e19b98e2ed46a1a9c"
+      ]
     }
   }
 }
