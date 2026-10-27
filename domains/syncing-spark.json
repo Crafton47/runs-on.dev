@@ -9,10 +9,8 @@
   },
   "country": "IN",
   "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=zero-to-ship.syncing-spark.runs-on.dev,89c1a7b79b55f814e0a1"
-      ]
+    "zero-to-ship": {
+      "CNAME": "542354378d4a457b.vercel-dns-017.com"
     }
   }
 }
