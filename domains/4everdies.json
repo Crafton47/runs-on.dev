@@ -4,7 +4,9 @@
     "github": "4everdies"
   },
   "claimedAt": "2026-10-27T12:47:43.582Z",
-  "records": {},
+  "records": {
+    "CNAME": "24b5eaae4a0afec2.vercel-dns-017.com"
+  },
   "country": "BR",
   "subdomains": {
     "_discord": {
