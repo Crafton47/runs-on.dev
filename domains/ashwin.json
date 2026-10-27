@@ -4,6 +4,8 @@
     "github": "Ashwin-Dev-27"
   },
   "claimedAt": "2026-10-20T15:17:42.118Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "IN"
 }
