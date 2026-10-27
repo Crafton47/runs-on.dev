@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "bolt.new"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_bolt-verify": {
+      "TXT": [
+        "bolt-verify-ac6dc28fd109d3d4c20c3f0cb8f63a7f99bb6d9a41165f5450a4835145452643"
+      ]
+    }
+  }
 }
