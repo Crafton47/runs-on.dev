@@ -5,5 +5,15 @@
   },
   "claimedAt": "2026-10-27T12:00:14.081Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "unnatiatmkmp": {
+      "CNAME": "bdc2a6612e051aed.vercel-dns-017.com"
+    },
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=unnatiatmkmp.runs-on.dev,c9cb0b3b486e396d7322"
+      ]
+    }
+  }
 }
