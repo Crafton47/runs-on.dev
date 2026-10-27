@@ -5,12 +5,5 @@
   },
   "claimedAt": "2026-10-24T04:29:24.530Z",
   "records": {},
-  "country": "IN",
-  "subdomains": {
-    "_bolt-verify": {
-      "TXT": [
-        "bolt-verify-ac6dc28fd109d3d4c20c3f0cb8f63a7f99bb6d9a41165f5450a4835145452643"
-      ]
-    }
-  }
+  "country": "IN"
 }
