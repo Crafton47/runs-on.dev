@@ -4,6 +4,8 @@
     "github": "SachinMhetre678"
   },
   "claimedAt": "2026-10-27T02:23:45.762Z",
-  "records": {},
+  "records": {
+    "CNAME": "7af11a2cb32b9ba7.vercel-dns-017.com"
+  },
   "country": "IN"
 }
