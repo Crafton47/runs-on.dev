@@ -4,9 +4,7 @@
     "github": "jaijk8311-jpg"
   },
   "claimedAt": "2026-10-24T04:29:24.530Z",
-  "records": {
-    "CNAME": "site-dns.bolt.host"
-  },
+  "records": {},
   "country": "IN",
   "subdomains": {
     "_bolt-verify": {
