@@ -6,7 +6,7 @@
   "claimedAt": "2026-10-27T13:06:16.342Z",
   "records": {
     "TXT": [
-      "vc-domain-verify=runs-on.dev,0495f1035bf4c8cbebcf"
+      "\"_vercel\":vc-domain-verify=runs-on.dev,0495f1035bf4c8cbebcf"
     ]
   },
   "country": "IN"
