@@ -7,7 +7,7 @@
   "records": {},
   "country": "IN",
   "subdomains": {
-    "zero-to-ship": {
+    "_vercel": {
       "TXT": [
         "vc-domain-verify=zero-to-ship.syncing-spark.runs-on.dev,89c1a7b79b55f814e0a1"
       ]
