@@ -5,7 +5,7 @@
   },
   "claimedAt": "2026-10-24T04:29:24.530Z",
   "records": {
-    "CNAME": "bolt.new"
+    "CNAME": "site-dns.bolt.host"
   },
   "country": "IN",
   "subdomains": {
