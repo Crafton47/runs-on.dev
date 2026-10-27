@@ -5,7 +5,9 @@
   },
   "claimedAt": "2026-10-27T13:06:16.342Z",
   "records": {
-    "CNAME": "676561a89a636eba.vercel-dns-017.com"
+    "TXT": [
+      "vc-domain-verify=mukul.runs-on.dev,466d231f03e053ae4aa0"
+    ]
   },
   "country": "IN"
 }
