@@ -4,6 +4,8 @@
     "github": "syncingspark-dev"
   },
   "claimedAt": "2026-10-27T13:23:45.954Z",
-  "records": {},
+  "records": {
+    "CNAME": "542354378d4a457b.vercel-dns-017.com"
+  },
   "country": "IN"
 }
