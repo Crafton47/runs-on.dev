@@ -5,9 +5,6 @@
   },
   "claimedAt": "2026-10-27T13:06:16.342Z",
   "records": {
-    "A": [
-      "8.8.8.8"
-    ],
     "TXT": [
       "vc-domain-verify=runs-on.dev,0495f1035bf4c8cbebcf"
     ]
