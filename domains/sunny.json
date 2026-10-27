@@ -5,12 +5,7 @@
   },
   "claimedAt": "2026-10-27T05:51:57.492Z",
   "records": {
-    "A": [
-      "76.76.21.2"
-    ],
-    "TXT": [
-      "vc-domain-verify=sunny.runs-on.dev,7f6d9abdbf01ac370ed8"
-    ]
+    "URL": "https://portfolio-rust-five-nzsu4svgzr.vercel.app/"
   },
   "country": "IN"
 }
