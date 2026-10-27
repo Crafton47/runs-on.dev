@@ -4,7 +4,9 @@
     "github": "bkbnc"
   },
   "claimedAt": "2026-10-27T12:00:14.081Z",
-  "records": {},
+  "records": {
+    "CNAME": "bdc2a6612e051aed.vercel-dns-017.com"
+  },
   "country": "IN",
   "subdomains": {
     "unnatiatmkmp": {
