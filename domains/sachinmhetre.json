@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "7af11a2cb32b9ba7.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=sachinmhetre.runs-on.dev,0a5d46bc09f66b89b086"
-      ]
-    }
-  }
+  "country": "IN"
 }

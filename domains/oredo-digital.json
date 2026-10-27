@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "f7d0e63006ec6483.vercel-dns-017.com"
   },
-  "country": "PK",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=oredo-digital.runs-on.dev,4b4e246598bb391434ef"
-      ]
-    }
-  }
+  "country": "PK"
 }

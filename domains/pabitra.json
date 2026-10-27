@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "58d7f6ec97128905.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=pabitra.runs-on.dev,c461554e6b275b403fac"
-      ]
-    }
-  }
+  "country": "IN"
 }

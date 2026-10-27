@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "996b55160132ed5d.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=kshitijnakod-portfolio.runs-on.dev,cff84fe3266203fd9e40"
-      ]
-    }
-  }
+  "country": "IN"
 }

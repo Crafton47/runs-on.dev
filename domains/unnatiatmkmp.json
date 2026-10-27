@@ -11,11 +11,6 @@
   "subdomains": {
     "unnatiatmkmp": {
       "CNAME": "bdc2a6612e051aed.vercel-dns-017.com"
-    },
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=unnatiatmkmp.runs-on.dev,e812885c66969fee9181"
-      ]
     }
   }
 }

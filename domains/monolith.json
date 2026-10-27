@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "deced15949d64207.vercel-dns-017.com"
   },
-  "country": "IT",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=monolith.runs-on.dev,a3b537877cce83c2b4a1"
-      ]
-    }
-  }
+  "country": "IT"
 }
