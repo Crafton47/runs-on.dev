@@ -4,6 +4,8 @@
     "github": "sunnysuwalka"
   },
   "claimedAt": "2026-10-27T05:51:57.492Z",
-  "records": {},
+  "records": {
+    "CNAME": "549d34d397ed3a7c.vercel-dns-017.com"
+  },
   "country": "IN"
 }
